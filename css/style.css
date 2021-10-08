@@ -1,0 +1,41 @@
+.main-content{
+    margin-top: 50px;
+}
+.content-wrapper{
+    background-color: #ccc;
+}
+.frm{
+    width: 230px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: floralwhite;
+    padding-top: 10px;
+    font-style: italic;
+}
+.frm input{
+    text-align: right;
+}
+.frm #display{
+    padding: 10px 3px;
+}
+.buttons{
+    margin-top: 10px;
+}
+.buttons .btn-1 input{
+    padding: 10px 15px;
+        margin-bottom: 5px;
+}
+.buttons .btn-2 input{
+    padding: 10px 15px;
+        margin-bottom: 5px;
+}
+.buttons .btn-3 input{
+    padding: 10px 15px;
+    margin-right: 1px;
+        margin-bottom: 5px;
+}
+.buttons .btn-4 input{
+    padding: 10px 15px;
+    margin-right: 1px;
+    margin-bottom: 25px;
+}
